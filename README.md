@@ -10,7 +10,7 @@ Multi-browser testing support
 Retry mechanism for failed test cases
 Extent Report integration
 
-Screenshots for all test cases
+Screenshots for all test cases &
 Logs for failed test cases
 
 
