@@ -16,20 +16,16 @@ Logs for failed test cases
 
 Email service to send Extent Reports
 
-Project Structure
-[You can add details about your project structure here]
 Getting Started
 To use this project, follow these steps:
 
 Clone the repository:
-Copygit clone [your-repository-url]
 
 Update the Maven project in your preferred IDE
 Run the test suite:
 
 Locate the "RunCompletePackage.xml" file
 Run it with your desired browser specified as a parameter
-
 
 View the test results:
 
