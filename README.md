@@ -2,13 +2,13 @@ Selenium Java Hybrid Framework
 This repository contains a Selenium-Java hybrid framework for automated testing.
 Framework Features
 
-Selenium-Java hybrid framework
-Page Object Model (POM) design pattern
-TestNG for test management
-Log4j2 for logging and debugging
-Multi-browser testing support
-Retry mechanism for failed test cases
-Extent Report integration
+Selenium-Java hybrid framework,
+Page Object Model (POM) design pattern,
+TestNG for test management,
+Log4j2 for logging and debugging,
+Multi-browser testing support,
+Retry mechanism for failed test cases,
+Extent Report integration,
 
 Screenshots for all test cases &
 Logs for failed test cases
